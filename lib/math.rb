@@ -19,5 +19,5 @@ return num1 % num2
 end
 
 def square_root(num)
-return num.sqrt
+return Integer.sqrt(num)
 end
